@@ -9,6 +9,9 @@ default: &default
   adapter:  postgresql
   pool: 5
   timeout: 5000
+  username: dell 
+  password:
+  encoding: utf8
 
 development:
   <<: *default
