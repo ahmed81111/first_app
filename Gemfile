@@ -3,6 +3,8 @@ source 'https://rubygems.org'
   gem 'heroku'
 
   gem 'rails_12factor' #for rail > 4 versions 
+ 
+ gem  ruby '2.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
